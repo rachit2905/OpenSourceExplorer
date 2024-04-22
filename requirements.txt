@@ -1,0 +1,10 @@
+python-dotenv
+langchain
+openai
+pinecone-client==2.2.4
+unstructured
+tabulate
+pdf2image
+streamlit
+tiktoken
+altair<5
