@@ -50,4 +50,45 @@ OpenSourceExplorer is built using the Retrieval-Augmented Generation (RAG) frame
 - **Embeddings and Vector Store**: Integrates GoogleGenerativeAIEmbeddings and FAISS for creating and managing vector stores.
 - **Conversational Chain**: Employs a custom prompt template and Google's Generative AI for generating responses to user queries.
 
+## Steps to Run the Project
+
+1. **Clone the Repository**
+   - Clone the repository to your local machine and navigate to the project directory.
+     ```sh
+     git clone https://github.com/rachit2905/OpenSourceExplorer.git
+     cd OpenSourceExplorer
+     ```
+
+2. **Create and Activate Virtual Environment**
+   - Set up a virtual environment to manage dependencies.
+     - **Windows:**
+       ```sh
+       python -m venv venv
+       venv\Scripts\activate
+       ```
+     - **macOS/Linux:**
+       ```sh
+       python3 -m venv venv
+       source venv/bin/activate
+       ```
+
+3. **Install Dependencies**
+   - Install the required Python packages listed in `requirements.txt`.
+     ```sh
+     pip install -r requirements.txt
+     ```
+
+4. **Environment Variables**
+   - Create a `.env` file in the project root and add the necessary API keys.
+     ```sh
+     echo "API_KEY='YOUR_API_KEY_HERE'" > .env
+     ```
+
+5. **Run the Application**
+   - Start the Streamlit application.
+     ```sh
+     streamlit run app.py
+     ```
+
+
 
