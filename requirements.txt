@@ -1,10 +1,7 @@
-python-dotenv
-langchain
-openai
-pinecone-client==2.2.4
-unstructured
-tabulate
-pdf2image
 streamlit
-tiktoken
-altair<5
+google-generativeai
+langchain
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
