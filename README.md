@@ -2,6 +2,9 @@
 
 OpenSourceExplorer is a chatbot designed to help you find the right GitHub repository for your needs. It leverages Retrieval-Augmented Generation (RAG) and Large Language Models (LLM), integrated with GitHub's APIs.
 
+##Demo
+(https://github.com/rachit2905/OpenSourceExplorer/assets/85569226/0627d093-c51a-4ea5-ae5b-51e056b7680d)
+
 ## Prerequisites
 
 - Python 3.8 or later
