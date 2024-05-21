@@ -6,6 +6,18 @@ OpenSourceExplorer is a chatbot designed to help you find the right GitHub repos
 
 https://github.com/rachit2905/OpenSourceExplorer/assets/85569226/0627d093-c51a-4ea5-ae5b-51e056b7680d
 
+
+##Screenshots
+
+![Screenshot 2024-05-21 184206](https://github.com/rachit2905/OpenSourceExplorer/assets/85569226/0c51e73f-f601-4624-b0af-bff41e44e8c1)
+
+![Screenshot (10)](https://github.com/rachit2905/OpenSourceExplorer/assets/85569226/1c6f9f1c-9cda-45c7-bc3a-7a587c7816f6)
+
+![Screenshot (11)](https://github.com/rachit2905/OpenSourceExplorer/assets/85569226/6004925c-79aa-4801-b5df-12baac8939ac)
+
+![Screenshot (12)](https://github.com/rachit2905/OpenSourceExplorer/assets/85569226/eee390b9-0186-458c-be1c-be5c7b6aa2d9)
+
+
 ## Prerequisites
 
 - Python 3.8 or later
